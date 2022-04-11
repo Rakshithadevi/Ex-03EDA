@@ -114,5 +114,4 @@ sns.heatmap(df.corr(),annot=True)
 
 ![image](https://user-images.githubusercontent.com/94165326/162749231-187a61a3-eb75-417b-9b54-963779d7b44a.png)
 
-![image](https://user-images.githubusercontent.com/94165326/162749282-dab7cd23-5947-407d-ae9a-890252cbba79.png)
-
+![image](https://user-images.githubusercontent.com/94165326/162750130-15d58a3f-5d96-435e-b3c2-5d33aa801a35.png)
